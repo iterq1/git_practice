@@ -2,3 +2,4 @@
 add some text
 add another text
 add text
+text for rebase
