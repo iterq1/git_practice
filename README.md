@@ -3,4 +3,4 @@ add some text
 add another text
 add text
 text for rebase
-new text
+new text1
